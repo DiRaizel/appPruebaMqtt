@@ -1,0 +1,20 @@
+.page-content{
+    background-image: url("../img/Fondo Sistema de turnos-Azul.jpg");
+    /*background-size: 100vh;*/
+    background-repeat: no-repeat;
+    /*font-family: Century Gothic;*/
+}
+
+.btnLlamado{
+    margin-top: 5vh;
+    height: 30vh;
+    width: 60vw;
+    border-radius: 3%;
+    border: 1px solid #000000;
+}
+
+.logo{
+    padding-left: 20vw;
+    height: 15vh;
+    width: 60vw;
+}
